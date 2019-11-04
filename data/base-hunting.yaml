@@ -934,6 +934,7 @@ hunting_zones:
   - 9677
   - 9678
   - 9679
+  
   # https://elanthipedia.play.net/Blue-dappled_prereni                   180-225
   # Crazy swarm, packed
   blue_dappled_prereni:
@@ -1727,12 +1728,21 @@ hunting_zones:
   - 6990
   - 6989
   - 6988
+  
+  # https://elanthipedia.play.net/Stumpy_blight_ogre                      170-240
+  # Reasonable step up from young_blue_dappled_prereni; shield/weapon user so harder to hit for level
+  blight_ogre_stumpy:
+  - 4294
+  - 4290
+  - 4293
+  - 4291
+  
   # https://elanthipedia.play.net/Giant_blight_ogre                      180-270
   blight_ogre_giant:
-  - 4304
-  - 4340
   - 4303
-  - 4294 
+  - 4340
+  - 4304
+  
   # https://elanthipedia.play.net/Sinuous_ice_adder                      200-300
   ice_adders:
   - 50227
